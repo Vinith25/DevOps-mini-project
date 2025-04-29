@@ -1,4 +1,4 @@
-# DevOps-mini-project
+# DevOps-mini-project  ON_GOING 
 
 Complete DevOps CI/CD Mini Project using AWS, Terraform, Jenkins, Docker, Ansible, Kubernetes
 
